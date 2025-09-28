@@ -2,7 +2,7 @@
 Regina Jelita Ningsih
 <br>(2509116061)
 # Update Book Reading Tracker
-Project ini ada versi update dari project sebelumnya (Minpro-1-DDP). Pada project ini saya menambahkan fitur login untuk 2 role, yaitu sebagai creator atau reader. Program pada project ini masih menggunakan CRUD dengan tambahan library PrettyTable untuk mempercantik tabel list buku, library Maskpass untuk menyembunyikan inputan password pada saat login, dictionary, looping, functions, dan error handling. Selanjutnya akan saya jelaskan mengenai fitur dan programnya lebih lanjut ^^
+Project ini adalah versi update dari project sebelumnya (Minpro-1-DDP). Pada project ini saya menambahkan fitur login untuk 2 role, yaitu sebagai creator atau reader. Program pada project ini masih menggunakan CRUD dengan tambahan library PrettyTable untuk mempercantik tabel list buku, library Maskpass untuk menyembunyikan inputan password pada saat login, dictionary, looping, functions, dan error handling. Selanjutnya akan saya jelaskan mengenai fitur dan programnya lebih lanjut ^^
 # Tampilan awal pada program
 > Gambar dibawah ini merupakan tampilan awal saat program dijalankan. Pada project ini saya menambahkan opsi login sebagai creator atau sebagai reader. Kedua role tersebut memilik fitur-fitur nya tersendiri. 
 <img width="1476" height="253" alt="image" src="https://github.com/user-attachments/assets/eb4d8105-3763-4ef3-a924-4fffe5433bcb" />
